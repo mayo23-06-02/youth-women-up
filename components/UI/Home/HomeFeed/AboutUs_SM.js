@@ -15,7 +15,7 @@ export default function AboutUs_SM() {
                                 <div className=' -space-y-16
                      '>
                                     <span className=' flex justify-start opacity-20'>
-                                        <p className='text-6xl'>"</p>
+                                        <p className='text-6xl'>&quot;</p>
                                     </span>
                                     <div className='-space-y-2 text-3xl tracking-tighter px-8 font-bold'>
                                         <p>PROFFESSIONAL AND</p>
@@ -31,7 +31,7 @@ export default function AboutUs_SM() {
                         <div className='space-y-2 text-2xl tracking-tighter  font-bold'>
                             <p>Youth & Women Up</p>
                             <div>
-                                <p className='opacity-80 tracking-normal font-normal text-base'>Welcome to "Youth and Woman Up" – an energetic non-governmental organization committed to championing the rights and welfare of youth and women by focusing on Mental Health, Economic Empowerment, and Sexual and Reproductive Health Rights. </p>
+                                <p className='opacity-80 tracking-normal font-normal text-base'>Welcome to &quot;Youth and Woman Up&quot;–an energetic non-governmental organization committed to championing the rights and welfare of youth and women by focusing on Mental Health, Economic Empowerment, and Sexual and Reproductive Health Rights. </p>
                             </div>
                             <p>Mission</p>
                             <p className='opacity-80 tracking-normal font-normal text-base'>Our mission is to empower individuals, regardless of gender or age, to reach their full potential and contribute to an inclusive society. Since our establishment in 2020, we have tirelessly worked towards gender equality, empowerment, and social justice.</p>
