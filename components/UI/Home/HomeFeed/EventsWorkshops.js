@@ -135,24 +135,23 @@ export default function EventsWorkshops() {
             </div>
             <div className={`${option == 3 ? "" : "hidden"} `}>
                 <ul className='border-2 border-gray2 rounded-lg md:space-y-2 p-2  space-y-2  w-[85vw] lg:w-full'>
-
-                    <li className='bg-gray3 w-full grid grid-flow-row md:grid-cols-7  cursor-pointer hover:bg-gray3 md:h-16 rounded-lg items-center md:pl-8 pl-2 text-lg   '>
+                    <li className='bg-gray3 w-full lg:grid grid-flow-row md:grid-cols-7  cursor-pointer hover:bg-gray3 md:h-16 rounded-lg lg:items-center md:pl-8 pl-2 text-lg  flex flex-col items-start'>
                         <div className=' whitespace-nowrap '>
                             <p>07 Jan 2023</p>
                         </div>
-                        <div className='col-span-2' >
-                            <p className='font-semibold text-xl lg:no-underline underline line-clamp-1 '>ITS UP TO ME</p>
+                        <div className='col-span-2 ' >
+                            <p className='font-semibold text-xl    lg:no-underline underline line-clamp-1 '>ITS UP TO ME</p>
                         </div>
                         <div className='flex items-center space-x-2 justify-center' >
                             <BiCurrentLocation className='text-primary' />
                             <p className='line-clamp-1'>MBABANE </p>
                         </div>
-                        <div className='flex items-center space-x-2 col-span-3 pl-6 justify-start' >
+                        <div className='flex items-center space-x-2 col-span-3 lg:pl-6 justify-start' >
                             <BiMessageAltDots className='text-primary ' />
                             <p className=' line-clamp-1 max-w-[300px]'>Launch Proposal & 2023 Prep Picnic (goal setting)</p>
                         </div>
                     </li>
-                    <li className='bg-gray3 w-full grid grid-flow-row md:grid-cols-7  cursor-pointer hover:bg-gray3 md:h-16 rounded-lg items-center md:pl-8 pl-2 text-lg '>
+                    <li className='bg-gray3 w-full lg:grid grid-flow-row md:grid-cols-7  cursor-pointer hover:bg-gray3 md:h-16 rounded-lg lg:items-center md:pl-8 pl-2 text-lg  flex flex-col items-start'>
                         <div className=' whitespace-nowrap '>
                             <p>22 Apr 2023</p>
                         </div>
@@ -163,7 +162,7 @@ export default function EventsWorkshops() {
                             <BiCurrentLocation className='text-primary' />
                             <p className='line-clamp-1'>MBABANE </p>
                         </div>
-                        <div className='flex items-center space-x-2 col-span-3 justify-start pl-6' >
+                        <div className='flex items-center space-x-2 col-span-3 lg:pl-6 justify-start' >
                             <BiMessageAltDots className='text-primary ' />
                             <p className=' line-clamp-1 max-w-[300px]'>Mental Health, Reaching Goals</p>
                         </div>

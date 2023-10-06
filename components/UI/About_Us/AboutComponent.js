@@ -7,7 +7,7 @@ import Team from './Team'
 
 export default function AboutComponent() {
     return (
-        <div className='px-4 lg:px-0 space-y-12'>
+        <div className='px-4 space-y-12'>
             <div className='flex lg:justify-between flex-col lg:flex-row '>
                 <div>
                     <p className='flex text-2xl lg:text-4xl font-bold '>ABOUT US</p>
@@ -18,7 +18,7 @@ export default function AboutComponent() {
                 </div>
             </div>
             <div>
-                <Image src={Item2} width={1200} height={200} alt='' />
+                <Image className='rounded-lg' src={Item2} width={1500} height={200} alt='' />
 
             </div>
             <div className='h-0.5  bg-gray2 w-full' />

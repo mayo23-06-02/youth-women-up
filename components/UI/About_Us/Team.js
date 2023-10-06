@@ -22,73 +22,73 @@ export default function Team() {
     return (
         <div className=' text-base grid space-x-2 grid-cols-2 md:grid-cols-3 lg:grid-cols-4'>
             <div className='pb-4 flex flex-col items-start space-y-2'>
-                <Image alt='' src={Afua} width={200} height={200} className='rounded' />
+                <Image alt='' src={Afua} width={500} height={500} className='rounded' />
                 <div>
                     <p className='opacity-80'>AFUA</p>
                 </div>
             </div>
             <div className='pb-4 flex flex-col items-start space-y-2'>
-                <Image alt='' src={Alice} width={200} height={200} className='rounded' />
+                <Image alt='' src={Alice} width={500} height={500} className='rounded' />
                 <div>
                     <p className='opacity-80'>ALICE</p>
                 </div>
             </div>
             <div className='pb-4 flex flex-col items-start space-y-2'>
-                <Image alt='' src={Bongikile} width={200} height={200} className='rounded' />
+                <Image alt='' src={Bongikile} width={500} height={500} className='rounded' />
                 <div>
                     <p className='opacity-80'>BONGEKILE</p>
                 </div>
             </div>
             <div className='pb-4 flex flex-col items-start space-y-2'>
-                <Image alt='' src={Dalingcebo} width={200} height={200} className='rounded' />
+                <Image alt='' src={Dalingcebo} width={500} height={500} className='rounded' />
                 <div>
                     <p className='opacity-80'>DALINGCEBO</p>
                 </div>
             </div>
             <div className='pb-4 flex flex-col items-start space-y-2'>
-                <Image alt='' src={Dorothy} width={200} height={200} className='rounded' />
+                <Image alt='' src={Dorothy} width={500} height={500} className='rounded' />
                 <div>
                     <p className='opacity-80'>Dorothy</p>
                 </div>
             </div>
             <div className='pb-4 flex flex-col items-start space-y-2'>
-                <Image alt='' src={Emefa} width={200} height={200} className='rounded' />
+                <Image alt='' src={Emefa} width={500} height={500} className='rounded' />
                 <div>
                     <p className='opacity-80'>EMEFA</p>
                 </div>
             </div>
             <div className='pb-4 flex flex-col items-start space-y-2'>
-                <Image alt='' src={hlengiwe} width={200} height={200} className='rounded' />
+                <Image alt='' src={hlengiwe} width={500} height={500} className='rounded' />
                 <div>
                     <p className='opacity-80'>HLENGIWE</p>
                 </div>
             </div>
             <div className='pb-4 flex flex-col items-start space-y-2'>
-                <Image alt='' src={Nkhosingiphile} width={200} height={200} className='rounded' />
+                <Image alt='' src={Nkhosingiphile} width={500} height={500} className='rounded' />
                 <div>
                     <p className='opacity-80'>NKHOSINGIPHILE</p>
                 </div>
             </div>
             <div className='pb-4 flex flex-col items-start space-y-2'>
-                <Image alt='' src={Nolwazi} width={200} height={200} className='rounded' />
+                <Image alt='' src={Nolwazi} width={500} height={500} className='rounded' />
                 <div>
                     <p className='opacity-80'>NOLWAZI</p>
                 </div>
             </div>
             <div className='pb-4 flex flex-col items-start space-y-2'>
-                <Image alt='' src={Nosifiso} width={200} height={200} className='rounded' />
+                <Image alt='' src={Nosifiso} width={500} height={500} className='rounded' />
                 <div>
                     <p className='opacity-80'>NOSIFISO</p>
                 </div>
             </div>
             <div className='pb-4 flex flex-col items-start space-y-2'>
-                <Image alt='' src={Reynee} width={200} height={200} className='rounded' />
+                <Image alt='' src={Reynee} width={500} height={500} className='rounded' />
                 <div>
                     <p className='opacity-80'>REYNEE</p>
                 </div>
             </div>
             <div className='pb-4 flex flex-col items-start space-y-2'>
-                <Image alt='' src={Wachira} width={200} height={200} className='rounded' />
+                <Image alt='' src={Wachira} width={500} height={500} className='rounded' />
                 <div>
                     <p className='opacity-80'>Wema</p>
                 </div>

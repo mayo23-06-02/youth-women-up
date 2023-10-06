@@ -22,14 +22,14 @@
   }
   .home-container {
     
-    @apply w-full flex bg-secondary flex-col lg:space-y-36 space-y-16
+    @apply w-full flex bg-secondary flex-col lg:space-y-12 space-y-16
   }
   /* Header */
   .header-container{
-    @apply flex w-full px-4 justify-between lg:py-6 items-center
+    @apply  flex w-full px-4 justify-between lg:py-6 items-center
 }
   .navigation-list {
-    @apply flex  cursor-pointer rounded
+    @apply flex bg-gray3  cursor-pointer rounded
   }
   .navigation-item {
     @apply text-xl text-text_primary relative flex items-center hover:underline px-6 py-2

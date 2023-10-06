@@ -22,22 +22,18 @@ export default function NavigationLg() {
                     </li>
                 </Link>
                 <Link href={'../../women-up'} >
-                <li className='navigation-item'>
-                    <p>WOMEN UP</p>
-                    <span className='outer-dot'>
-                        <div className='inner-dot' />
-                    </span>
-                </li>
+                    <li className='navigation-item'>
+                        <p>WOMEN UP</p>
+                        <span className='outer-dot'>
+                            <div className='inner-dot' />
+                        </span>
+                    </li>
                 </Link>
-                <li className='navigation-item'>
-                    <p>YOUTH UP</p>
-                    <span className='outer-dot'>
-                        <div className='inner-dot' />
-                    </span>
-                </li>
-                <li className='navigation-item'>
-                    <p>CONTACT US</p>
-                </li>
+                <Link href={'../../youth-up'} >
+                    <li className='navigation-item'>
+                        <p>YOUTH UP</p>
+                    </li>
+                </Link>
             </ul>
         </div>
     )

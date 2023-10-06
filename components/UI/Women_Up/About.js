@@ -10,7 +10,7 @@ import Item4 from '../../../assets/images/Item5.jpg'
 
 export default function Women_Up_AboutComponent() {
     return (
-        <div className='px-4 lg:px-0 space-y-12'>
+        <div className='px-4 space-y-12'>
             <div className='flex lg:justify-between flex-col lg:flex-row '>
                 <div>
                     <p className='flex text-2xl lg:text-5xl font-bold pb-6'>WOMEN UP</p>

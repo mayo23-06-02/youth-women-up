@@ -35,13 +35,12 @@ export default function AboutUs_SM() {
                             </div>
                             <p>Mission</p>
                             <p className='opacity-80 tracking-normal font-normal text-base'>Our mission is to empower individuals, regardless of gender or age, to reach their full potential and contribute to an inclusive society. Since our establishment in 2020, we have tirelessly worked towards gender equality, empowerment, and social justice.</p>
-                        </div>
-                        <div className=' text-3xl tracking-tighter space-y-2  font-bold'>
                             <p>VISION</p>
                             <p className='opacity-80 tracking-normal font-normal text-base'>Create a world where every youth and young
                                 woman has access to the resources and
                                 support they need to thrive.</p>
                         </div>
+               
                     </div>
                     <div className=' pt-8 w-8/22 flex justify-end relative'>
                         <div className='landing-button-container '>

@@ -77,7 +77,7 @@ export default function InfographicSection_SM() {
                     </div>
                 </div>
                 <div className='bg-gray2 px-4 pt-8 space-y-6'>
-                    <p className='text-xl font-bold '>Join us in our mission to make a difference: </p>
+                    <p className='text-xl font-bold '>Join us in our mission to make a difference in: </p>
                     <div className='flex overflow-x-auto w-[86vw] space-x-4'>
                         <div className=' h-full hover:scale-105 hover:shadow-2xl'>
                             <div className='bg-gray3 px-2  w-full text-7xl flex items-center justify-center h-36  '>
