@@ -55,7 +55,7 @@ export default function Reviews() {
 
                                 <div className='-space-y-2 w-full relative flex items-center justify-center'>
                                     <span className='absolute left-10 -top-10 flex justify-start opacity-20'>
-                                        <p className='text-8xl'>"</p>
+                                        <p className='text-8xl'>&quot;</p>
                                     </span>
                                     <p className='text-lg text-black  text-center w-8/12'>Thank God that I found Youth & Women UP on
                                         social media. For me it as a personal touch, unique
