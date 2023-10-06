@@ -52,8 +52,8 @@ export default function Women_Up_AboutComponent() {
             <div className='rounded-lg bg-gray2 w-full space-y-4 p-6'>
 
                 <div className='text-2xl lg:text-4xl font-bold -space-y-2 col-span-2 ' >
-                    <p>Real People</p>
-                    <p>Real Stories</p>
+                    <p>Meet Our</p>
+                    <p>Young Women</p>
 
                 </div>
                 <div>
