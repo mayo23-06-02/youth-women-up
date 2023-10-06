@@ -45,7 +45,7 @@ export default function RealPeopleRealStoriesSection() {
                 <div className='space-y-2'>
                     <p className='font-bold text-2xl tracking-tight'>ALICE</p>
                     <p>
-                        The very first session we had,it showed a great starting point which was not just for me ,but also the entire group of ladies that we actually can attain what we want if we keep striving,it's the first time I truly felt women empowerment and learned a lot from the guest speakers there, they really make you want to keep striving to be the best despite the situations we come across in our lives.
+                        The very first session we had,it showed a great starting point which was not just for me ,but also the entire group of ladies that we actually can attain what we want if we keep striving, it&#39;s the first time I truly felt women empowerment and learned a lot from the guest speakers there, they really make you want to keep striving to be the best despite the situations we come across in our lives.
                     </p>
                 </div>
                 <div className='flex   items-center justify-center px-6  py-2 rounded-lg space-x-8 bg-gray2 '>
