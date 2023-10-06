@@ -11,7 +11,7 @@ export default function AboutSection() {
                     <div className=' -space-y-16
                  '>
                         <span className=' flex justify-start opacity-20'>
-                            <p className='text-8xl'>"</p>
+                            <p className='text-8xl'>&quot;</p>
                         </span>
                         <div className='-space-y-2 text-4xl tracking-tighter px-12 font-bold'>
                             <p>PROFFESSIONAL AND</p>

@@ -13,7 +13,7 @@ export default function AboutComponent() {
                     <p className='flex text-2xl lg:text-4xl font-bold '>ABOUT US</p>
                 </div>
                 <div className=' max-w-[600px] flex items-center justify-center flex-col    rounded-lg'>
-                    <p className='opacity-80'>Welcome to the vibrant world of "Youth and Woman Up," a dynamic non-governmental organization dedicated to advancing the rights and well-being of young people and women by focusing on Mental Health, Economic Empowerment, and Sexual and Reproductive Health Rights. </p>
+                    <p className='opacity-80'>Welcome to the vibrant world of &quot;Youth and Woman Up&quot;, a dynamic non-governmental organization dedicated to advancing the rights and well-being of young people and women by focusing on Mental Health, Economic Empowerment, and Sexual and Reproductive Health Rights. </p>
 
                 </div>
             </div>
@@ -32,8 +32,8 @@ export default function AboutComponent() {
                     <p>Our journey began in 2021 with a passionate commitment to foster gender equality, empowerment, and social justice as well as make friends after the isolation of our youth during COVID 19.</p>
                     <p>At our core, we are a youth-led organization with a bold mission: to create an inclusive society where every individual, regardless of gender or age, has the opportunity to reach their full potential. Our approach is rooted in collaboration, co-creation, education, and advocacy, recognizing that sustainable change is born from informed dialogue and comprehensive programs addressing the diverse challenges faced by youth and women.</p>
                     <p>Our track record speaks volumes, having hosted a number of impactful events, all guided by themes suggested by our young members. These events, including healing workshops, discussions on corporate workplace integrity, grief workshops, self-confidence and boundary-setting sessions, and a transformative self-belief retreat in 2023, have received resounding positive feedback.</p>
-                    <p>"Youth and Women Up" comprises two distinct segments: our "Women Up" division and our "Youth Up" division.</p>
-                    <p>At "Youth and Woman Up," we believe in the power of youth led collaboration, co-creation, education, and advocacy. We understand that sustainable change requires informed dialogue and comprehensive programs addressing the diverse challenges faced by youth and women. Through partnerships with various stakeholders, we create safe spaces for open discussions, knowledge sharing, and skill development.</p>
+                    <p>&quot;Youth and Women Up&quot; comprises two distinct segments: our &quot;Women Up&quot; division and our &quot;Youth Up&quot; division.</p>
+                    <p>At &quot;Youth and Woman Up&quot;, we believe in the power of youth led collaboration, co-creation, education, and advocacy. We understand that sustainable change requires informed dialogue and comprehensive programs addressing the diverse challenges faced by youth and women. Through partnerships with various stakeholders, we create safe spaces for open discussions, knowledge sharing, and skill development.</p>
                     <p>We take pride in our accomplishments and remain committed to creating meaningful opportunities for empowerment and change. Our success is a testament to the impact achievable through focused programming and dedicated partnerships. Join us in our mission to create a brighter, more inclusive future for all. Together, we can empower youth and women to rise and thrive.
                     </p>
                     <p>

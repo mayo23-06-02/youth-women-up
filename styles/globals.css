@@ -18,7 +18,7 @@
    @apply flex items-center justify-center   bg-secondary 
   }
   .home-main {
-    @apply h-full  flex max-w-5xl w-full
+    @apply h-full  flex max-w-7xl w-full
   }
   .home-container {
     
