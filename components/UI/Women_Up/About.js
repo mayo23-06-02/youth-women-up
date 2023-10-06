@@ -5,6 +5,7 @@ import Item2 from '../../../assets/images/item3.jpg'
 import Interviews from './Interviews'
 import Item3 from '../../../assets/images/Item4.jpg'
 import Item4 from '../../../assets/images/Item5.jpg'
+import Team from '../About_Us/Team'
 
 
 
@@ -56,7 +57,7 @@ export default function Women_Up_AboutComponent() {
 
                 </div>
                 <div>
-                    <Interviews />
+                    <Team />
                 </div>
             </div>
             <div className='h-0.5  bg-gray2 w-full' />
