@@ -12,7 +12,7 @@ export default function Youth_Up_AboutComponent() {
                     <p className='flex text-2xl lg:text-5xl font-bold pb-6'>YOUTH UP</p>
                 </div>
                 <div className=' lg:max-w-[600px] flex items-center justify-center flex-col    rounded-lg'>
-                    <p className='opacity-80'>Youth Up&#39;s primary focus on nurturing self-belief, a growth mindset, and confidence in the country's youth.  </p>
+                    <p className='opacity-80'>Youth Up&#39;s primary focus on nurturing self-belief, a growth mindset, and confidence in the country&#39;s youth.  </p>
                 </div>
             </div>
             <div>
