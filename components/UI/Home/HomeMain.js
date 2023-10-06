@@ -15,7 +15,6 @@ export default function HomeMain() {
   return (
     <div className='home-container md:px-12'>
       <HeaderMain />
-      <Background />
       <LandingSection />
       <div className='hidden lg:inline'>
         <AboutSection />
