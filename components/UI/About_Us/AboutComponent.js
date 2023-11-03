@@ -26,7 +26,7 @@ export default function AboutComponent() {
                 </div>
                 <div className=' space-y-8 p-4 py-2 col-span-3 flex-col flex items-start justify-start rounded-lg'>
                     <p>Thank you for your interest in Youth and Women UP! We would love to hear from you. Whether you have a question, suggestion, or would like to collaborate with us, please feel free to reach out using the contact information provided below. Our dedicated team is here to assist you and provide any information you may need.z</p>
-                    <div className='flex space-x-6'>
+                    <div className='flex space-x-6 flex-col lg:flex-row'>
                         <div className='flex bg-gray3 p-1 rounded items-center space-x-3'>
                             <BiEnvelope className='text-2xl opacity-60' />
                             <p className='text-xl'>info@youthwomenup.org</p>
