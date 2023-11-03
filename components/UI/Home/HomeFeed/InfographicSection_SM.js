@@ -129,6 +129,22 @@ export default function InfographicSection_SM() {
                                 </span>
                             </div>
                         </div>
+                        <div className=' w-full hover:scale-105 hover:shadow-2xl'>
+                            <div className='bg-gray3 px-2 text-7xl flex items-center justify-center h-36 '>
+                                <p><BiBulb /></p>
+                            </div>
+                            <div className='relative px-2 bg-gray3 w-[180px] text-2xl font-bold -space-y-4 py-6 flex flex-col items-center bg-opacity-60'>
+                                <p>UNLOCKING</p>
+                                <p>POTENTIAL</p>
+                                <span className='absolute opacity-5 text-3xl flex items-center flex-col -space-y- top-2'>
+                                    <p>UNLOCKING</p>
+                                    <p>POTENTIAL</p>
+                                </span>
+                                <span className='absolute top-3'>
+                                    <div className='bg-primary w-8 h-2' />
+                                </span>
+                            </div>
+                        </div>
                     </div>
                 </div>
 
