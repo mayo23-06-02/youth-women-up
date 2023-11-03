@@ -15,7 +15,12 @@ import Nolwazi from '../../../assets/images/Nolwazi.jpg'
 import Nosifiso from '../../../assets/images/Nosifiso.jpg'
 import Reynee from '../../../assets/images/Reynee.jpg'
 import Wachira from '../../../assets/images/Wachira.jpg'
-
+import Bongumusa from '../../../assets/images/Bongmusa.jpg'
+import Bavumile from '../../../assets/images/Bavumile.jpg'
+import Phakamile from '../../../assets/images/Phakamile.jpg'
+import Nomt from '../../../assets/images/Nomt.jpg'
+import Nikita from '../../../assets/images/Nikita.jpg'
+import Teyise from '../../../assets/images/Teyise.jpg'
 
 
 export default function Team() {
@@ -91,6 +96,42 @@ export default function Team() {
                 <Image alt='' src={Wachira} width={500} height={500} className='rounded' />
                 <div>
                     <p className='opacity-80'>Wema</p>
+                </div>
+            </div>
+            <div className='pb-4 flex flex-col items-start space-y-2'>
+                <Image alt='' src={Bavumile} width={500} height={500} className='rounded' />
+                <div>
+                    <p className='opacity-80'>Bavumile</p>
+                </div>
+            </div>
+            <div className='pb-4 flex flex-col items-start space-y-2'>
+                <Image alt='' src={Phakamile} width={500} height={500} className='rounded' />
+                <div>
+                    <p className='opacity-80'>Phakamile</p>
+                </div>
+            </div>
+            <div className='pb-4 flex flex-col items-start space-y-2'>
+                <Image alt='' src={Bongumusa} width={500} height={500} className='rounded' />
+                <div>
+                    <p className='opacity-80'>Bong&#39;musa</p>
+                </div>
+            </div>
+            <div className='pb-4 flex flex-col items-start space-y-2'>
+                <Image alt='' src={Nomt} width={500} height={500} className='rounded' />
+                <div>
+                    <p className='opacity-80'>Nomt</p>
+                </div>
+            </div>
+            <div className='pb-4 flex flex-col items-start space-y-2'>
+                <Image alt='' src={Nikita} width={500} height={500} className='rounded' />
+                <div>
+                    <p className='opacity-80'>Nikita</p>
+                </div>
+            </div>
+            <div className='pb-4 flex flex-col items-start space-y-2'>
+                <Image alt='' src={Teyise} width={500} height={500} className='rounded' />
+                <div>
+                    <p className='opacity-80'>Teyise</p>
                 </div>
             </div>
         </div>

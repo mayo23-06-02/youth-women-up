@@ -78,7 +78,7 @@ export default function InfographicSection() {
                     <div className='col-span-7 px-24 pt-24 space-y-12'>
                         <div className='-space-y-2 lg:text-5xl whitespace-nowrap font-bold '>
                             <p>JOIN US IN OUR MISSION</p>
-                            <p>TO MAKE A DIFFRENCE IN.</p>
+                            <p>TO MAKE A DIFFERENCE IN.</p>
                         </div>
                         <div className='space-y-16 '>
                             <ul className='flex items-center space-x-4 w-full '>

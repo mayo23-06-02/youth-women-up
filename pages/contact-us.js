@@ -8,10 +8,10 @@ const platelet = localFont({
 })
 
 
-export default function about_us() {
+export default function contact_us() {
     return (
         <main
-            className={`home ${platelet.className}`}
+            className={`home lg:h-screen ${platelet.className}`}
         >
             <div className='home-main'>
                 <About_Us_Main  />

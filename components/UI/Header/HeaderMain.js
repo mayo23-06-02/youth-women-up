@@ -31,7 +31,6 @@ export default function HeaderMain() {
           <div className='w-16' />
         </div>
       </div>
-
       <div className='lg:hidden' onClick={() => {
         setSetshowSideDrawer(true)
       }}>
@@ -49,11 +48,6 @@ export default function HeaderMain() {
               <p>HOME</p>
             </li>
           </Link>
-          <Link href={'../../about-us'}>
-            <li>
-              <p>ABOUT US</p>
-            </li>
-          </Link>
           <Link href={'../../women-up'}>
             <li>
               <p>WOMEN UP</p>
@@ -62,6 +56,11 @@ export default function HeaderMain() {
           <Link href={'../../youth-up'} >
             <li>
               <p>YOUTH UP</p>
+            </li>
+          </Link>
+          <Link href={'../../contact-us'}>
+            <li>
+              <p>CONTACT US</p>
             </li>
           </Link>
         </ul>
