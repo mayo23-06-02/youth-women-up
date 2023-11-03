@@ -34,11 +34,11 @@ export default function AboutUs_SM() {
                                 <p className='opacity-80 tracking-normal font-normal text-base'>Welcome to &quot;Youth and Woman Up&quot;–an energetic non-governmental organization committed to championing the rights and welfare of youth and women by focusing on Mental Health, Economic Empowerment, and Sexual and Reproductive Health Rights. </p>
                             </div>
                             <p>Mission</p>
-                            <p className='opacity-80 tracking-normal font-normal text-base'>Our mission is to empower individuals, regardless of gender or age, to reach their full potential and contribute to an inclusive society. Since our establishment in 2020, we have tirelessly worked towards gender equality, empowerment, and social justice.</p>
+                            <p className='opacity-80 tracking-normal font-normal text-base'>Our mission is to empower individuals, regardless of gender or age, to reach their full potential and contribute to an inclusive society. Since our establishment in 2020, we have tirelessly worked towards gender equality, youth empowerment, and social justice.</p>
                             <p>VISION</p>
-                            <p className='opacity-80 tracking-normal font-normal text-base'>Create a world where every youth and young
-                                woman has access to the resources and
-                                support they need to thrive.</p>
+                            <p className='opacity-80 tracking-normal font-normal text-base'>Create a world where every youth and young woman has access to the resources and support they need to thrive!</p>
+                            <p></p>
+                            <p className='opacity-80 tracking-normal font-normal text-base'>At our core, we are a youth-led organization with a bold mission: to create an inclusive society where every individual, regardless of gender or age, has the opportunity to reach their full potential. Our approach is rooted in collaboration, co-creation, education, and advocacy, recognizing that sustainable change is born from informed dialogue and comprehensive programs addressing the diverse challenges faced by youth and women.</p>
                         </div>
                
                     </div>

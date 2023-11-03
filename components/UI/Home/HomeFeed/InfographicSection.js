@@ -61,12 +61,12 @@ export default function InfographicSection() {
                             <p className='text-4xl text-primary'><FiGlobe /></p>
                             <div className='flex flex-col items-center'>
                                 <div className='flex items-center '>
-                                    <p className='font-bold text-6xl tracking-tighter'>4</p>
-                                    <p className='font-bold text-4xl tracking-tighter opacity-50'>+</p>
+                                    <p className='font-bold text-6xl tracking-tighter'>10</p>
+                                    <p className='font-bold text-4xl tracking-tighter opacity-50'>/17</p>
                                 </div>
                                 <div className='-space-y-2'>
-                                    <p className='lg:text-xl text-xs opacity-70 text-center '>PARTNERSHIPS &</p>
-                                    <p className='lg:text-xl text-xs opacity-70 text-center '>COLLABORATIONS</p>
+                                    <p className='lg:text-xl text-xs opacity-70 text-center '>UN SUSTAINABLE</p>
+                                    <p className='lg:text-xl text-xs opacity-70 text-center '>GOALS</p>
                                 </div>
                             </div>
                         </div>
@@ -75,18 +75,18 @@ export default function InfographicSection() {
                     </li>
                 </ul>
                 <div className='bg-gray2 grid grid-cols-7 grid-flow-row rounded-lg'>
-                    <div className='col-span-4 px-24 pt-24 space-y-12'>
+                    <div className='col-span-7 px-24 pt-24 space-y-12'>
                         <div className='-space-y-2 lg:text-5xl whitespace-nowrap font-bold '>
                             <p>JOIN US IN OUR MISSION</p>
                             <p>TO MAKE A DIFFRENCE IN.</p>
                         </div>
                         <div className='space-y-16 '>
                             <ul className='flex items-center space-x-4 w-full '>
-                                <li className=' w-96 hover:scale-105 hover:shadow-2xl'>
+                                <li className=' w-full hover:scale-105 hover:shadow-2xl'>
                                     <div className='bg-gray3 text-7xl flex items-center justify-center h-36 '>
                                         <p><BiBulb /></p>
                                     </div>
-                                    <div className='relative bg-gray3 text-2xl font-bold h-20 w-48 -space-y-4 justify-center flex flex-col items-center bg-opacity-60'>
+                                    <div className='relative bg-gray3 text-2xl font-bold h-20 w-full -space-y-4 justify-center flex flex-col items-center bg-opacity-60'>
                                         <p>MENTAL</p>
                                         <p>HEALTH</p>
                                         <span className='absolute opacity-5 text-3xl -space-y- top-2'>
@@ -102,7 +102,7 @@ export default function InfographicSection() {
                                     <div className='bg-gray3 text-7xl flex items-center justify-center h-36 '>
                                         <p><BiBulb /></p>
                                     </div>
-                                    <div className='relative w-48 bg-gray3 text-2xl font-bold h-20 -space-y-4 justify-center flex flex-col items-center bg-opacity-60'>
+                                    <div className='relative w-full bg-gray3 text-2xl font-bold h-20 -space-y-4 justify-center flex flex-col items-center bg-opacity-60'>
                                         <p>ECONOMIC</p>
                                         <p>EMPOWERMENT</p>
                                         <span className='absolute opacity-5 text-2xl -space-y- top-2'>
@@ -118,14 +118,30 @@ export default function InfographicSection() {
                                     <div className='bg-gray3 text-7xl flex items-center justify-center h-36 '>
                                         <p><BiBulb /></p>
                                     </div>
-                                    <div className='relative w-48 bg-gray3 text-2xl font-bold -space-y-4 h-20 justify-center flex flex-col items-center bg-opacity-60'>
-                                    <p>SEXUAL &</p>
-                                    <p>REPRODUCTIVE</p>
-                                    <p>HEALTH RIGHTS</p>
-                                        <span className='absolute opacity-5 text-2xl -space-y- flex items-center flex-col top-2'>
+                                    <div className='relative w-full bg-gray3 text-2xl font-bold -space-y-4 h-20 justify-center flex flex-col items-center bg-opacity-60'>
                                         <p>SEXUAL &</p>
                                         <p>REPRODUCTIVE</p>
                                         <p>HEALTH RIGHTS</p>
+                                        <span className='absolute opacity-5 text-2xl -space-y- flex items-center flex-col top-2'>
+                                            <p>SEXUAL &</p>
+                                            <p>REPRODUCTIVE</p>
+                                            <p>HEALTH RIGHTS</p>
+                                        </span>
+                                        <span className='absolute top-3'>
+                                            <div className='bg-primary w-8 h-2' />
+                                        </span>
+                                    </div>
+                                </li>
+                                <li className='w-full hover:scale-105 hover:shadow-2xl'>
+                                    <div className='bg-gray3 text-7xl flex items-center justify-center h-36 '>
+                                        <p><BiBulb /></p>
+                                    </div>
+                                    <div className='relative w-full bg-gray3 text-2xl font-bold -space-y-4 h-20 justify-center flex flex-col items-center bg-opacity-60'>
+                                        <p>UNLOCKING </p>
+                                        <p>POTENTIAL</p>
+                                        <span className='absolute opacity-5 text-2xl -space-y- flex items-center flex-col top-2'>
+                                            <p>UNLOCKING </p>
+                                            <p>POTENTIAL</p>
                                         </span>
                                         <span className='absolute top-3'>
                                             <div className='bg-primary w-8 h-2' />

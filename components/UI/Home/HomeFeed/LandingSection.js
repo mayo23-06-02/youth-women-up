@@ -12,7 +12,7 @@ export default function LandingSection() {
                 <div className='landing-text-container'>
                     <div className='landing-title'>
                         <p>EMPOWERING THE YOUTH.</p>
-                        <p>UPLIFTIONG YOUNG WOMEN.</p>
+                        <p>UPLIFTING YOUNG WOMEN.</p>
                     </div>
                     <p className='landing-subtitle'>Youth and Women Empowerment in Action. At Youth and Women UP, we believe in transformative power of education, mentorship, and community.</p>
                 </div>

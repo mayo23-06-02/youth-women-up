@@ -22,7 +22,7 @@
   }
   .home-container {
     
-    @apply w-full flex bg-secondary flex-col lg:space-y-12 space-y-16
+    @apply w-full flex bg-secondary flex-col space-y-16
   }
   /* Header */
   .header-container{

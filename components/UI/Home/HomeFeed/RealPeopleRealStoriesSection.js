@@ -26,8 +26,7 @@ export default function RealPeopleRealStoriesSection() {
                 </div>
                 <div className='space-y-2'>
                     <p className='font-bold text-2xl tracking-tight'>BONGEKILE</p>
-                    <p>I am now a free, flexible, and relaxed person who enjoys talking about anything and have
-                        learnt to trust people back, a step at a time.
+                    <p>I am now a free, flexible, and relaxed person who enjoys talking about anything and have learnt to trust people back, a step at a time.
                     </p>
                 </div>
                 <div className='flex   items-center justify-center px-6  py-2 rounded-lg space-x-8 bg-gray2 '>
