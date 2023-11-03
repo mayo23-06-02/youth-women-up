@@ -1,5 +1,5 @@
 import React from 'react'
-import { BiBulb, BiGroup, BiLeaf } from 'react-icons/bi'
+import { BiBulb, BiGlobe, BiGroup, BiLeaf } from 'react-icons/bi'
 import { FiCalendar, FiClock } from 'react-icons/fi'
 
 export default function InfographicSection_SM() {
@@ -49,8 +49,8 @@ export default function InfographicSection_SM() {
                                         <p className='font-semibold text-2xl tracking-tighter opacity-50'>+</p>
                                     </div>
                                     <div className='-space-y-2'>
-                                        <p className=' opacity-70 text-center '>EVENTS & MEETING</p>
-                                        <p className=' opacity-70 text-center '>HOSTED THIS YEAR</p>
+                                        <p className=' opacity-70 text-center '>UN SUSTAINABLE</p>
+                                        <p className=' opacity-70 text-center '>GOALS</p>
                                     </div>
                                 </div>
                             </div>
@@ -59,11 +59,11 @@ export default function InfographicSection_SM() {
                         </div>
                         <div className='  w-full flex flex-col items-center  space-y-2'>
                             <div className='w-full flex flex-col items-center'>
-                                <p className='text-4xl text-primary'><BiGroup /></p>
+                                <p className='text-4xl text-primary'><BiGlobe /></p>
                                 <div className='w-full flex flex-col items-center'>
                                     <div className='flex items-center '>
-                                        <p className='font-semibold text-4xl tracking-tighter'>4</p>
-                                        <p className='font-semibold text-2xl tracking-tighter opacity-50'>+</p>
+                                        <p className='font-semibold text-4xl tracking-tighter'>17</p>
+                                        <p className='font-semibold text-2xl tracking-tighter opacity-50'>/22</p>
                                     </div>
                                     <div className='-space-y-2'>
                                         <p className=' opacity-70 text-center '>PARTNERSHIPS &</p>
